@@ -15,3 +15,6 @@ urls:
 
 //mysql server port is also changed 3306,
 mysqldialuct is uncomanted
+
+
+//added on field at last in model (boolean deleted)
