@@ -13,5 +13,5 @@ urls:
 @DeleteMapping("/sowAllDelte")
 @DeleteMapping("/getDeleteByID/{sowId}")
 
-//mysql server port is also changed 3306
+//mysql server port is also changed 3306,
 mysqldialuct is uncomanted
